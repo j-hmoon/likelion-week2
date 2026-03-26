@@ -41,6 +41,7 @@ body{
 }
 .likes-detail{
     color: rgb(19, 139, 109);
+    list-style: circle;
 }
 a {
     text-decoration: none;
