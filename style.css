@@ -40,3 +40,6 @@ body{
 .likes-detail{
     color: orange;
 }
+.link img {
+    width: 40px;
+}
