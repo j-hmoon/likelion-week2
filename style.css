@@ -1,0 +1,42 @@
+body{
+    background-color: pink;
+    padding: 30px;
+}
+.title h1{
+    text-align: center;
+    border: 4px dashed black;
+}
+.title h2,
+.title h3{
+    text-align: right;
+}
+.bold{
+    font-weight: 1000;
+}
+.contact{
+    background-color: white;
+    margin: 20px auto;
+    padding-bottom: 20px;
+    border-radius: 0 0 10px 10px;
+}
+.likes{
+    background-color: white;
+    margin: 20px auto;
+    padding-bottom: 20px;
+    border-radius: 0 0 10px 10px;
+}
+.container-title{
+    color:white;
+    background-color: rgb(247, 152, 183);
+    text-align: center;
+    font-size: 25px;
+    font-weight: 600;
+    padding: 10px;
+}
+.contact-detail{
+    font-style: italic;
+    padding-left: 15px;
+}
+.likes-detail{
+    color: orange;
+}
