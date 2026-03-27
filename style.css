@@ -5,6 +5,7 @@ body{
 .title h1{
     text-align: center;
     border: 2px dashed black;
+    padding: 10px 0 10px 0;
 }
 .title h2{
     text-align: right;
